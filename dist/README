@@ -30,22 +30,22 @@ Please consult INSTALL For further installation instruction.
 DOCUMENTATION
 -------------
 
-README - This file
-INSTALL - Installation guide
-HELP - About the program
-COPYING - License information
+README                  - This file
+INSTALL                 - Installation guide 
+HELP                    - About the program
+COPYING                 - License information
 
 Tic-Tac-Toe Source Files
 ------------------------
 
-Makefile - GNU Makefile for compiling the game
-main.cc - Program entry point
-Board.hh - Board of game class header file
-Board.cc - Board of game class implementation file
-Button.hh - Buttons setup class header file
-Button.cc - Buttons setup class implementation file
-Window.hh - Main window class header file
-Window.cc - Main window class implementation file
+Makefile                - GNU Makefile for compiling the game
+main.cc                 - Program entry point
+Board.hh                - Board of game class header file
+Board.cc                - Board of game class implementation file
+Button.hh               - Buttons setup class header file
+Button.cc               - Buttons setup class implementation file
+Window.hh               - Main window class header file
+Window.cc               - Main window class implementation file
 
 Tic-Tac-Toe Source Images
 -------------------------
