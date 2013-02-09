@@ -1,4 +1,5 @@
-pandora_downloader
+pandora_extractor
 ==================
 
-A Python program which authorizes a user's Pandora account, extracts a list of songs from a specific station and downloads the corresponding flv files found from Youtube
+A Python program helps massively download music from your Pandora stations. 
+Just give it your Pandora username and your're all set!
