@@ -82,7 +82,7 @@ class FlowControl:
             print "INVALID INPUT! Please try again..."
         print "Choose your favorite station by entering its preceeding number."
         try:
-            option = raw_input("(Or enter 0 to go back and use a nother Pandora account): ")
+            option = raw_input("(Or enter 0 to go back and use another Pandora account): ")
         except:
             print 
             sys.exit(1)
