@@ -5,6 +5,9 @@ from app.Welcome import Welcome
 from app.FlowControl import FlowControl
 
 if __name__ == '__main__':
-    Welcome.disclaimer()
-    control = FlowControl()
-    control.start()
+    try:
+        Welcome.disclaimer()
+        control = FlowControl()
+        control.start()
+    except:
+        raise SystemExit("\nProgram terminated on Ctrl-C")
