@@ -39,7 +39,7 @@ DOWNLOAD YOUR MUSIC!
 --------------------
 
 - Open your terminal
-- Locate this folder and run PandoraExtractor by executing this command:
+- Locate this folder and run PandoraExtractor:
     ./PandoraExtractor
 - All music tracks will be saved under "MY_MUSIC" folder, grouped by the Pandora
 station name to which they belong
