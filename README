@@ -25,7 +25,7 @@ OBTAIN YOUR PANDORA USERNAME
 - When you are in, click your email address on the top-right corner of the page,
 and select "My Profile"
 - In the profile page, your username is right next to your profile picture. You 
-can also see it on the link appeared on your web browser address bar
+can also see it in the URL appeared on your web browser address bar
     For example: http://www.pandora.com/profile/littlefinzer
     -> My Pandora username is: littlefinzer
 - Remember it!
@@ -34,7 +34,7 @@ can also see it on the link appeared on your web browser address bar
 DOWNLOAD YOUR MUSIC!
 --------------------
 
-- Simply run "PandoraExtractor.py"
+- Run the executable "PandoraExtractor"
 - All music tracks will be saved under "MY_MUSIC" folde, grouped by the Pandora
 station name to which they belong
 - Enjoy!
