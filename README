@@ -14,8 +14,12 @@ CONTENTS OF THIS FILE
 INSTALLATION
 ------------
 
-You have finished the installation! Yes! Pandora Extractor is portable as it is 
-enclosed within this single folder.
+- Chmod the executable to make sure you can run it. Execute these commands in
+in your terminal:
+    chmod 775 /path/to/this_folder/PandoraExtractor
+    chmod +x /path/to/this_folder/PandoraExtractor
+- And you have finished the installation! Yes! Pandora Extractor is portable as 
+it is enclosed within this single folder.
 
 
 OBTAIN YOUR PANDORA USERNAME
