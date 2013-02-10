@@ -5,12 +5,6 @@ Please included license in COPYING
 INSTALLATION
 ------------
 
-Suppose that you will build and run the game in the PSU CS Linux Laboratory.
-
-1. From your terminal window, execute the following command
-        
-        make
-
-2. That's it! Now it's time to enjoy Tic-Tac-Toe! Performing the following command should bring up the game window
-
-        ./tictactoe &
+As soon as you have extracted the zip package and read this line, you have
+finished the installation process. Yes! This program is portable as it is enclosed
+within this folder.
