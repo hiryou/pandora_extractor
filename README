@@ -14,8 +14,11 @@ CONTENTS OF THIS FILE
 INSTALLATION
 ------------
 
-- Run "setup.sh". You can double-click it and select to run from your terminal.
-- You have finished the installation! Yes! Pandora Extractor is portable as 
+- Open your terminal
+- Locate this folder and execute the following command:
+    chmod +x setup.sh
+    ./setup.sh
+- And you have finished the installation! Yes! Pandora Extractor is portable as 
 it is enclosed within this single folder.
 
 
@@ -35,7 +38,9 @@ can also see it in the URL appeared on your web browser address bar
 DOWNLOAD YOUR MUSIC!
 --------------------
 
-- Run the executable "PandoraExtractor"
+- Open your terminal
+- Locate this folder and execute the PandoraExtractor:
+    ./PandoraExtractor
 - All music tracks will be saved under "MY_MUSIC" folde, grouped by the Pandora
 station name to which they belong
 - Enjoy!
