@@ -3,7 +3,7 @@ from __init__ import *
 class FlowControl:
     
     __PLATFORM_WINDOWS = "windows"
-    __PLATFORM_MAC_OS = "darwin"
+    __PLATFORM_MAC_OS = "macosx"
     __PLATFORM_LINUX = "linux"
     
     __username = ""
@@ -216,7 +216,7 @@ class FlowControl:
                 validInput = False
             
     def __clrscr(self):
-        if sys.platform==self.__PLATFORM_WINDOWS:
+        if platform.system().lower()==self.__PLATFORM_WINDOWS:
             os.system("cls")
         else:
             os.system("clear")
