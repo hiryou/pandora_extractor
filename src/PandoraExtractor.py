@@ -10,4 +10,4 @@ if __name__ == '__main__':
         control = FlowControl()
         control.start()
     except:
-        raise SystemExit("\nProgram terminated intentionally on Ctrl-C")
+        raise SystemExit("\nProgram terminated on Ctrl-C")

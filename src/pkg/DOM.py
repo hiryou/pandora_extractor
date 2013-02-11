@@ -25,7 +25,6 @@ class DOM:
             
         def __eval_node_value(self):
             """ Eval the nodeValue being the inner html of the node
-            @param String closingTag: the closing tag e.g. </h3>, </div>, </span> 
             """
             html = self.nodeHtml
             str = html[::-1]
